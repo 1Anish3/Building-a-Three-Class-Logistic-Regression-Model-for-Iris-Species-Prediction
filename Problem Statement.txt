@@ -1,0 +1,8 @@
+Problem Statement Description
+
+Objective: To build a three class logistic regression classifier to predict the species of the iris flower based on the available four features.
+
+Data Description: The data set contains information about three different species of iris flowers (setosa, versicolor, and virginica), including their petal and sepal length and width.
+It contains a total of 150 samples, with 50 samples for each of the three species.
+This is a classification problem with three classes: setosa, versicolor, and virginica.
+Each sample has four features - Sepal length (in cm), Sepal width (in cm), Petal length (in cm), and Petal width (in cm).
